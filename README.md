@@ -1,1 +1,1 @@
-This notebook presents an example of the implementation from my paper Carbonneau, A. and Godin, F. (2021). Deep equal risk pricing of financial derivatives with non-translation invariant risk measures
+This notebook presents an example of the implementation from my paper Carbonneau, A. and Godin, F. (2021). Deep equal risk pricing of financial derivatives with non-translation invariant risk measures
